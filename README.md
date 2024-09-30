@@ -120,26 +120,32 @@ plt.show()
 
 ## OUTPUT:
 #### Original Image
-![Screenshot 2024-09-29 201312](https://github.com/user-attachments/assets/9961ab20-23e2-4f22-ba72-f3b260ba6bee)
+![image](https://github.com/user-attachments/assets/17c819d1-48c2-4726-b49b-6a34ef016761)
 
 ### 1. Smoothing Filters
-![Screenshot 2024-09-29 201427](https://github.com/user-attachments/assets/449a49e5-1ca7-44f9-930e-ad69663f295c)
+#### i) using Averaging Filter Image
+![image](https://github.com/user-attachments/assets/6ec2221c-ae1a-4d7e-bf70-116f19857608)
 
-#### i) Using Averaging Filter
-![Screenshot 2024-09-29 201435](https://github.com/user-attachments/assets/23270573-0457-45bf-bfb7-f753dbac1f38)
+#### ii) Using Weighted Average Filter Image
+![image](https://github.com/user-attachments/assets/9fc953df-69c2-4a19-be2b-51a3a5473765)
 
-#### ii) Using Gaussian Filter
-![Screenshot 2024-09-29 201442](https://github.com/user-attachments/assets/b6a547c4-8287-4c0c-8e75-c601d7536b14)
 
-#### iii) Using Median Filter
-![Screenshot 2024-09-29 201450](https://github.com/user-attachments/assets/8c79be51-51b9-4c6b-b335-f7b66477adf4)
+#### iii) Using Gaussian Filter
+![image](https://github.com/user-attachments/assets/9833e556-9771-42f8-bdce-08c1600ad03a)
+
+
+#### iv) Using Median Filter
+![image](https://github.com/user-attachments/assets/51564fa3-51eb-4d0b-a8f5-ef4c36c4b23e)
+
 
 ### 2. Sharpening Filters
 #### i) Using Laplacian Kernal
-![Screenshot 2024-09-29 201456](https://github.com/user-attachments/assets/cb4bf41a-af9f-43eb-9206-b9e0cda0ae39)
+![image](https://github.com/user-attachments/assets/817ec612-627a-4238-a2ef-f2b8962b9ed3)
+
 
 #### ii) Using Laplacian Operator
-![Screenshot 2024-09-29 201501](https://github.com/user-attachments/assets/e2ec0650-551b-4edd-94e0-545db1de3aff)
+![image](https://github.com/user-attachments/assets/cb1884c2-117e-4665-bc97-db01a92df698)
+
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
