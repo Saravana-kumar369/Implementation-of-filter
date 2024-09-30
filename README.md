@@ -38,13 +38,15 @@ Anaconda - Python 3.7
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-image1 = cv2.imread("Ex_5_image.jpeg")
+image1 = cv2.imread("IMAGE2.webp")
 image2 = cv2.cvtColor(image1, cv2.COLOR_BGR2RGB)
 plt.figure(figsize=(10, 8))
 plt.subplot(1, 2, 1)
 plt.imshow(image2)
 plt.title("Original Image")
 plt.axis("off")
+
+plt.show()
 ```
 #### i) Using Averaging Filter
 ```Python
